@@ -21,7 +21,7 @@ Welcome to the SimpleLang Compiler project! This is a basic compiler built using
 2. Clone this repository to your local machine:
 ```markdown
    ```bash
-   git clone https://github.com/your-username/simplelang-compiler.git
+   git clone https://github.com/being-amara-khan/simplelang-compiler.git
    ```
 
 3. Navigate to the project directory:
