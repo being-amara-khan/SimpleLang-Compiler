@@ -3,7 +3,7 @@
 
 Welcome to the SimpleLang Compiler project! This is a basic compiler built using Python and Tkinter that performs various phases of compilation on code written in a simple programming language. The compiler includes functionality for lexical analysis, syntax analysis, semantic analysis, and code generation. Additionally, it can run the compiled code and handle file operations.
 
-```markdown
+
 # Features
 
 - Lexical Analysis: Tokenizes the input code and displays the tokens.
@@ -19,7 +19,7 @@ Welcome to the SimpleLang Compiler project! This is a basic compiler built using
 1. Ensure you have Python installed on your system. You can download it from [python.org](https://www.python.org/).
 
 2. Clone this repository to your local machine:
-
+```markdown
    ```bash
    git clone https://github.com/your-username/simplelang-compiler.git
    ```
