@@ -1,5 +1,6 @@
 
-### SimpleLang Compiler
+#### SimpleLang Compiler
+
 ```markdown
 
 
@@ -57,11 +58,11 @@ Contributions are welcome! If you have suggestions or improvements, please open 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE]() file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/being-amara-khan/SimpleLang-Compiler/commit/b7b06aedd7655221181672ff3b2d8f0e85783d94) file for details.
 
 ## Contact
 
-For any questions or feedback, please reach out to me  at [www.linkedin.com/in/amara-khan-pro].
+For any questions or feedback, please reach out to me  at [LinkedIN](www.linkedin.com/in/amara-khan-pro).
 
 ---
 
